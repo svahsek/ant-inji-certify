@@ -1,6 +1,6 @@
 name: ant-inji-certify
-title: Inji Certify
-version: latest
+title: Ant Inji Certify
+version: ~ main
 start_page: ROOT:index.adoc
 nav:
 - modules/ROOT/nav.adoc
