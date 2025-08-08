@@ -1,0 +1,2 @@
+= Ant Inji Certify
+Ant Inji Certify is a system for digital credential verification and certification. It provides a secure and efficient way to manage digital credentials, ensuring their authenticity and integrity.
