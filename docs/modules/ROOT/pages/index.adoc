@@ -1,0 +1,19 @@
+= Inji Certify Documentation
+
+Welcome to the Inji Certify documentation. This guide will help you understand, deploy, and configure the Inji Certify system.
+
+== What is Inji Certify?
+
+Inji Certify is a system for digital credential verification and certification.
+
+== Quick Start
+
+To get started with Inji Certify:
+
+1. Review the xref:deployment.adoc#pre-requisites[pre-requisites]
+2. Follow the xref:deployment.adoc#installation[installation guide]
+3. Configure the system using our xref:configuration.adoc[configuration guide]
+
+== Support
+
+If you encounter any issues, please check our xref:troubleshooting.adoc[troubleshooting guide].
