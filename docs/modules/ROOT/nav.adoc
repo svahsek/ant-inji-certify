@@ -1,7 +1,3 @@
 * xref:readme.adoc[Inji Certify Documentation]
 * xref:index.adoc[Overview]
-* xref:deployment.adoc[Deployment]
-** xref:deployment.adoc#pre-requisites[Pre-requisites]
-** xref:deployment.adoc#installation[Installation]
-* xref:configuration.adoc[Configuration]
-* xref:troubleshooting.adoc[Troubleshooting]
+* xref:deploy-inji-certify.adoc[Deploy Inji Certify]
