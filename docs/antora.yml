@@ -4,5 +4,5 @@ version: ~ main
 start_page: ROOT:index.adoc
 nav:
 - modules/ROOT/nav.adoc
-- modules/api/nav.adoc
-- modules/admin/nav.adoc
+# - modules/api/nav.adoc
+# - modules/admin/nav.adoc
