@@ -1,0 +1,37 @@
+= Version 0.8.0
+
+_Release Name_: Inji Certify 0.8.0
+
+_Support_: Developer Release
+
+_Release Date_: 30th April, 2024
+
+=== _Overview_
+
+We are thrilled to announce the inaugural release of Inji Certify, featuring a seamless installation guide for deploying Inji Certify. This release highlights the key integration with microservices such as eSignet VCI and Sunbird RC, in Version 0.8.0.
+
+_Summary_
+
+Below are the details for the _Inji Certify 0.8.0_ release:
+
+Inji Certify introduces seamless integration with microservices eSignet VCI and Sunbird C. These robust services are dedicated to credentialing, facilitating seamless authentication, issuance, and verification of verifiable credentials within the platform. Click on the following links to learn more:
+
+_ [_Credential Issuance*](https://docs.mosip.io/inji/inji-certify/functional-overview/features)
+_ [_Effortless Installation*](https://docs.mosip.io/inji/inji-certify/functional-overview/features)
+
+_Repository Released_
+
+| _Repositories_ | _Tags Released_                                                                   |
+| ---------------- | ----------------------------------------------------------------------------------- |
+| Inji Certify     | [_v0.8.0_](https://github.com/mosip/inji-certify/tree/v0.8.0)                     |
+| eSignet          | [_v1.4.0_](https://github.com/mosip/esignet/releases/tag/v1.4.0)                  |
+| Sunbird C        | [_v2.0.0_](https://github.com/Sunbird-RC/sunbird-rc-core/releases/tag/v2.0.0-rc3) |
+
+=== _Known Issues_
+
+No Known Issues
+
+=== _Documentation_
+
+* [Feature Documentation](https://docs.mosip.io/inji/inji-certify/functional-overview/features)
+* [Local Setup](https://docs.mosip.io/inji/inji-certify/build-and-deploy/local-setup)

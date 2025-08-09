@@ -1,0 +1,49 @@
+= Version 0.10.2
+
+_Release Version_: v0.10.2 (Patch)
+
+_Release Type_: Developer Release
+
+_Release_ _Date_: 21st Feb, 2025
+
+== _Overview_
+
+This patch release _0.10.2_ for _Inji Certify_ addresses fixes related to release versions, ensuring that the correct images of _Inji Web_ and _Mimoto_ are selected during local deployment using _Docker Compose_.
+
+== _Bug Fixes_
+
+Below is the list of bug fixes as part of the _0.10.2_ release:
+
+| _Jira ID_                                                     | _Description_                                                     |
+| --------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [INJICERT-926](https://mosip.atlassian.net/browse/INJICERT-926) | Unable to pull image of Inji web and mimoto during local deployment |
+
+== _Repository Released_
+
+| _Repositories_           | _Tags Released_                                                                    |
+| -------------------------- | ------------------------------------------------------------------------------------ |
+|  inji-certify              |   [_v0.10.2_](https://github.com/mosip/inji-certify/tree/v0.10.2)                  |
+| digital-credential-plugins |  [_v0.10.0_](https://github.com/mosip/esignet-mock-services/tree/v0.10.0)          |
+| artifactory                |  [_v0.10.0-INJI_](https://github.com/mosip/digital-credential-plugins/tree/v0.3.0) |
+| inji-config                |  [_v0.5.0_](https://github.com/mosip/inji-config/tree/v0.5.0)                      |
+| keymanager                 |  [_v1.3.0-beta.2_](https://github.com/mosip/keymanager/tree/v1.3.0-beta.2)         |
+
+== _Compatible Modules_
+
+The following table outlines the tested and certified compatibility of \<release version> with other modules.
+
+
+
+
+
+| _Module_           | _Version(With tag links)_                                                         |
+| -------------------- | ----------------------------------------------------------------------------------- |
+|  eSignet             |   [_v1.4.1_](https://github.com/mosip/esignet/tree/v1.4.1)                        |
+| Sunbird C            | [_v2.0.0_](https://github.com/Sunbird-RC/sunbird-rc-core/releases/tag/v2.0.0-rc3) |
+| Key Manager          | [_v1.3.0-beta.2_](https://github.com/mosip/keymanager/tree/v1.3.0-beta.2)         |
+| commons              | [_v1.3.0-beta.1_](https://github.com/mosip/commons/tree/v1.3.0-beta.1)            |
+| mock-identity-system | [_v0.10.0_](https://github.com/mosip/esignet-mock-services/tree/v0.10.0)          |
+
+== Documentation:
+
+* [QA Report](https://docs.inji.io/inji-certify/releases/version-0.10.2/test-report)
